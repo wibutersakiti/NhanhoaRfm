@@ -1,0 +1,9 @@
+exploit : web.com/web/app/filemanager.php
+               web.com/filemanager.pbp
+
+output:Tampilan RFM pada umum nya
+
+tools:https://kawankelam.tech/nhanhoarfm.zip
+
+
+dork: inurl:Copyright ® 2022 Nhan Hoa Software Company
